@@ -27,23 +27,15 @@ Solutions are automatically synced from LeetCode to this repository using **Leet
 | **Total** | **3** |
 <!-- DSA-PROGRESS:END -->
 
+> Automatically updated from `stats.json`.
+
 ---
 
 ## 📚 Topics Covered
 
-This repository currently contains problems covering topics such as:
+The topic-wise problem list below is automatically maintained by LeetHub.
 
-- Math
-- Arrays
-- Two Pointers
-- Binary Search
-- And more as I continue solving problems
-
-The detailed topic-wise problem list below is **automatically maintained by LeetHub**.
-
-> ⚠️ **Important:** Do not edit, remove, rename, or move anything between the LeetHub markers below. LeetHub automatically updates this section whenever new problems are solved.
-
----
+> ⚠️ **Important:** Do not edit, remove, rename, or move anything between the LeetHub markers. LeetHub automatically updates this section.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -73,14 +65,15 @@ The detailed topic-wise problem list below is **automatically maintained by Leet
 - **Platform:** LeetCode
 - **Sync:** LeetHub
 - **Repository:** GitHub
+- **Language:** C++
 - **Focus:** Data Structures & Algorithms
 
 ---
 
-## 📈 About This Repository
+## 🚀 Journey
 
-This repository is my **DSA practice log**, documenting my journey of solving LeetCode problems and improving my algorithmic thinking.
+This repository documents my journey of solving LeetCode problems and improving my understanding of **Data Structures, Algorithms, and problem-solving techniques**.
 
-I will continuously add new solutions as I progress from fundamental problems to more challenging interview-level questions.
+I will continuously add new solutions and track my progress as I work towards becoming a stronger competitive programmer and software developer.
 
-> **One problem at a time. Consistency over perfection.** 🚀
+> **One problem at a time. Consistency over perfection. 🚀**
