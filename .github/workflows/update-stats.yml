@@ -1,0 +1,87 @@
+name: Update LeetCode Stats
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update README stats
+        shell: python
+        run: |
+          import json
+          import re
+
+          # Read LeetHub statistics
+          with open("stats.json", "r", encoding="utf-8") as f:
+              data = json.load(f)
+
+          leetcode = data["leetcode"]
+
+          easy = leetcode.get("easy", 0)
+          medium = leetcode.get("medium", 0)
+          hard = leetcode.get("hard", 0)
+          total = leetcode.get("solved", easy + medium + hard)
+
+          # New progress table
+          progress = f"""<!-- DSA-PROGRESS:START -->
+          | Difficulty | Solved |
+          |:---:|---:|
+          | 🟢 Easy | {easy} |
+          | 🟡 Medium | {medium} |
+          | 🔴 Hard | {hard} |
+          | **Total** | **{total}** |
+          <!-- DSA-PROGRESS:END -->"""
+
+          # Read README
+          with open("README.md", "r", encoding="utf-8") as f:
+              readme = f.read()
+
+          # Replace only our custom statistics section
+          pattern = r"<!-- DSA-PROGRESS:START -->.*?<!-- DSA-PROGRESS:END -->"
+
+          if not re.search(pattern, readme, flags=re.DOTALL):
+              raise SystemExit(
+                  "DSA-PROGRESS markers were not found in README.md"
+              )
+
+          readme = re.sub(
+              pattern,
+              progress,
+              readme,
+              flags=re.DOTALL
+          )
+
+          # Write updated README
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(readme)
+
+          print(f"Easy: {easy}")
+          print(f"Medium: {medium}")
+          print(f"Hard: {hard}")
+          print(f"Total: {total}")
+
+      - name: Commit updated README
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update LeetCode progress"
+            git push
+          fi
