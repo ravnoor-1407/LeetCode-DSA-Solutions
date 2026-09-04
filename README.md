@@ -18,14 +18,14 @@ Solutions are automatically synced from LeetCode to this repository using **Leet
 
 ## 📊 Problem-Solving Progress
 
+<!-- DSA-PROGRESS:START -->
 | Difficulty | Solved |
 |:---:|---:|
 | 🟢 Easy | 3 |
 | 🟡 Medium | 0 |
 | 🔴 Hard | 0 |
 | **Total** | **3** |
-
-> This progress table is maintained manually and is separate from the LeetHub-generated section below.
+<!-- DSA-PROGRESS:END -->
 
 ---
 
