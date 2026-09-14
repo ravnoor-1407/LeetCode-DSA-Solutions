@@ -21,10 +21,10 @@ Solutions are automatically synced from LeetCode to this repository using **Leet
 <!-- DSA-PROGRESS:START -->
 | Difficulty | Solved |
 |:---:|---:|
-| 🟢 Easy | 3 |
+| 🟢 Easy | 4 |
 | 🟡 Medium | 1 |
 | 🔴 Hard | 0 |
-| **Total** | **4** |
+| **Total** | **5** |
 <!-- DSA-PROGRESS:END -->
 
 > Automatically updated from `stats.json`.
