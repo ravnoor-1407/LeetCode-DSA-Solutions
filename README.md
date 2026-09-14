@@ -53,6 +53,7 @@ The topic-wise problem list below is automatically maintained by LeetHub.
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +62,11 @@ The topic-wise problem list below is automatically maintained by LeetHub.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 <!---LeetCode Topics End-->
 
 ---
