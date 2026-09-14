@@ -51,11 +51,16 @@ The topic-wise problem list below is automatically maintained by LeetHub.
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
 
 ---
