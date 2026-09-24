@@ -47,6 +47,7 @@ The topic-wise problem list below is automatically maintained by LeetHub.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -68,6 +69,10 @@ The topic-wise problem list below is automatically maintained by LeetHub.
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
 
 ---
