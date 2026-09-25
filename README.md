@@ -47,6 +47,7 @@ The topic-wise problem list below is automatically maintained by LeetHub.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0136-single-number) |
 | [0704-binary-search](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -73,6 +74,14 @@ The topic-wise problem list below is automatically maintained by LeetHub.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0136-single-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
 
 ---
