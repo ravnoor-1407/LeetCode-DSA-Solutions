@@ -49,6 +49,7 @@ The topic-wise problem list below is automatically maintained by LeetHub.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
@@ -70,6 +71,7 @@ The topic-wise problem list below is automatically maintained by LeetHub.
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,10 +80,23 @@ The topic-wise problem list below is automatically maintained by LeetHub.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
 
 ---
