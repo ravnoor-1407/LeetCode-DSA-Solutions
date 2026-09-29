@@ -14,6 +14,19 @@ public:
                 freq--;
             }
         }
+        int count = 0;
+        for (int num: nums) {
+            if (num == result) {
+                count++;
+            } 
+        }
+        
+        if(count > nums.size() / 2) {
+            return result;
+        } else {
+            return -1;
+        }
+
         return result;
     }
 };
