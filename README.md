@@ -22,9 +22,9 @@ Solutions are automatically synced from LeetCode to this repository using **Leet
 | Difficulty | Solved |
 |:---:|---:|
 | 🟢 Easy | 6 |
-| 🟡 Medium | 3 |
+| 🟡 Medium | 4 |
 | 🔴 Hard | 0 |
-| **Total** | **9** |
+| **Total** | **10** |
 <!-- DSA-PROGRESS:END -->
 
 > Automatically updated from `stats.json`.
