@@ -43,6 +43,7 @@ The topic-wise problem list below is automatically maintained by LeetHub.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -97,6 +98,10 @@ The topic-wise problem list below is automatically maintained by LeetHub.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
 
 ---
