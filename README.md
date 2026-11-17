@@ -120,6 +120,7 @@ The topic-wise problem list below is automatically maintained by LeetHub.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -127,6 +128,7 @@ The topic-wise problem list below is automatically maintained by LeetHub.
 | [0094-binary-tree-inorder-traversal](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -135,6 +137,7 @@ The topic-wise problem list below is automatically maintained by LeetHub.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0226-invert-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -145,6 +148,7 @@ The topic-wise problem list below is automatically maintained by LeetHub.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0226-invert-binary-tree](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0226-invert-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
