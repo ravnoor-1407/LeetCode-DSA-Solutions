@@ -49,6 +49,7 @@ The topic-wise problem list below is automatically maintained by LeetHub.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
+| [0084-largest-rectangle-in-histogram](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
@@ -107,6 +108,7 @@ The topic-wise problem list below is automatically maintained by LeetHub.
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
@@ -143,6 +145,14 @@ The topic-wise problem list below is automatically maintained by LeetHub.
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/ravnoor-1407/LeetCode-DSA-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
 
 ---
