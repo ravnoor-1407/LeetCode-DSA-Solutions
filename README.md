@@ -23,8 +23,8 @@ Solutions are automatically synced from LeetCode to this repository using **Leet
 |:---:|---:|
 | 🟢 Easy | 10 |
 | 🟡 Medium | 7 |
-| 🔴 Hard | 0 |
-| **Total** | **17** |
+| 🔴 Hard | 1 |
+| **Total** | **18** |
 <!-- DSA-PROGRESS:END -->
 
 > Automatically updated from `stats.json`.
